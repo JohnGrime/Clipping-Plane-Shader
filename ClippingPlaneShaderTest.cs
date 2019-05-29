@@ -1,4 +1,9 @@
-﻿using System.Collections.Generic;
+﻿/*
+	Clip plane shader example usage.
+	Copyright (c) 2019, John Grime, ETL, University of Oklahoma.
+*/
+
+using System.Collections.Generic;
 using UnityEngine;
 
 public class ClippingPlaneShaderTest : MonoBehaviour

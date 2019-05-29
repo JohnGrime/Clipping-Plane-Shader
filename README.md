@@ -18,3 +18,7 @@ You should see a blue sphere with a clipping plane moving up and down through it
 ![Figure 1](1.png)
 ![Figure 2](2.png)
 ![Figure 3](3.png)
+
+## Notes
+
+It can be fun to e.g. set the clip plane parameters to track VR controllers in `Update()` methods so the clipping plane tracks the user input.
