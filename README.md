@@ -1,6 +1,6 @@
-# Recognise.py
+# Clipping Plane Shader
 
-_A simple Unity surface shader to implement clipping planes for cross sections_
+_A simple Unity surface shader to implement clipping planes_
 
 ## Requirements
 
@@ -13,7 +13,7 @@ _A simple Unity surface shader to implement clipping planes for cross sections_
 3. Set the `Cross Section Color` option of the clipping plane script we just applied to the GameObject (if desired). 
 3. Run the scene.
 
-You should see a blue sphere with a clipping plane moving up and down through it; the cross sectional area exposed by the clipping plane should be shown in the specified color (see Figs. 1 to 3 below, cross sectional area shown in red).
+You should see a blue sphere with a clipping plane moving up and down through it; the cross sectional area exposed by the clipping plane should be shown in the specified color (see screenshots below, cross sectional area shown in red).
 
 ![Figure 1](1.png)
 ![Figure 2](2.png)
